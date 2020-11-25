@@ -18,5 +18,9 @@
   {
     "name": "read-kana",
     "homepage": "https://karugamo.agency/read-kana"
+  },
+  {
+    "name": "ldjam-analysis",
+    "homepage": "https://karugamo.agency/ldjam-analysis"
   }
 ]
