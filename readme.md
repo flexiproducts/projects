@@ -1,4 +1,4 @@
-# react-template
+# projects
 
 Run development server with
 ```

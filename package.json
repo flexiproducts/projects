@@ -1,20 +1,20 @@
 {
-  "name": "react-template",
+  "name": "projects",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html --public-url '/react-template'"
+    "build": "parcel build index.html --public-url '/projects'"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/flexiproducts/react-template.git"
+    "url": "git+https://github.com/flexiproducts/projects.git"
   },
   "bugs": {
-    "url": "https://github.com/flexiproducts/react-template/issues"
+    "url": "https://github.com/flexiproducts/projects/issues"
   },
-  "homepage": "https://github.com/flexiproducts/react-template#readme",
+  "homepage": "https://github.com/flexiproducts/projects#readme",
   "dependencies": {
     "@types/lodash": "^4.14.165",
     "@types/node": "^14.14.7",
